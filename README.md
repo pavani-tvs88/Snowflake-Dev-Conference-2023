@@ -23,5 +23,20 @@ SnowPark ML: Snowpark ML is a set of tools, including SDKs and underlying infras
 
 Reference Link: https://docs.snowflake.com/en/developer-guide/snowpark-ml/index
 
+Day 1
+We had interesting discussions on various topics. The lab I attended gave me a perspective into how to connect Snowpark for Python which is part of the snowflake.
+
+We have worked on the labs using the quickstart guide to understand how it can be done: https://quickstarts.snowflake.com/guide/data_engineering_with_snowpark_python_intro/index.html#0
+
+Day 2
+I attended the sessions from the Microsoft Azure and Snowflake collaboration team, the LLM (Large Language Models) Innovators showcase (this session showcased the projects that were created using Streamlit, snowpark, and LLM), and a few more.
+
+Microsoft Open AI and Snowflake can be integrated into four different models.
+
+Below is a quick-start guide for Microsoft Open AI and Snowflake:
+
+https://quickstarts.snowflake.com/guide/getting_started_with_azure_openai_and_snowflake/#0
+
+
 
 
